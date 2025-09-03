@@ -1,5 +1,7 @@
 # Simple LLM Studio & Weight Visualizer
 
+Video about it is at: https://youtu.be/S0JfoLCI8bA
+
 This project provides a simple, self-contained environment to train a GPT-style Large Language Model (LLM) from scratch and visually 
 inspect its internal weights. It's designed for educational purposes to demonstrate the core components of LLM training and analysis 
 in a hands-on way.
