@@ -1,5 +1,7 @@
 # Simple LLM Studio & Weight Visualizer
 
+(LLM-Studio2.py should be able to handle longer input for training.)
+
 Video about it is at: [https://youtu.be/S0JfoLCI8bA](https://youtu.be/kpVV7ytRbcU)
 
 This project provides a simple, self-contained environment to train a GPT-style Large Language Model (LLM) from scratch and visually 
